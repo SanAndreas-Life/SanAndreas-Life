@@ -4,4 +4,5 @@ Boujour/bonsoir
 2. SanAndreas Life est une équipe de développeur/mappeur/designeur dans la création d'un serveur GTARP
 3. Nous voulons recréer le RP avec notre vision du RP (On aurait pus appeler le serveur VisionRP 😂)
 4. Vous êtes la bienvenue sur le serveur ! Nous vous attendons avec impatiente ! (🚧 Serveur en cours de développement)
--- https://discord.gg/mkMZD5Fhzj -
+
+https://discord.gg/mkMZD5Fhzj
